@@ -1,0 +1,12 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="43301c4d-b851-4759-90d3-3658d5923a56" name="ubffmmobil" url="http://localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="9045de77-5a06-4a14-8b61-38f65474c625" name="IP HTTPS" url="https://141.2.165.128/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
